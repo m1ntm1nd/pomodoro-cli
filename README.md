@@ -1,6 +1,6 @@
 # POMODORO - CLI
 
-I just need practice in python and other.
+I just need practice in python and other. Feel free to comment and critisize 
 
 - bash script to writes into bashrc {CURDIR}/ptimer #TODO
 - sudo apt install cython
